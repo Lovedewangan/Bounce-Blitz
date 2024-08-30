@@ -1,0 +1,9 @@
+﻿  Animation.cpp
+C:\Users\ASUS\source\repos\hello\Animation\Animation\Animation.cpp(16,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\source\repos\hello\Animation\Animation\Animation.cpp(41,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\source\repos\hello\Animation\Animation\Animation.cpp(224,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Animation\Animation\Animation.cpp(225,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Animation\Animation\Animation.cpp(378,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Animation\Animation\Animation.cpp(379,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Animation\Animation\Animation.cpp(380,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Animation.vcxproj -> C:\Users\ASUS\source\repos\hello\Animation\x64\Debug\Animation.exe
